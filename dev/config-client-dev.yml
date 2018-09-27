@@ -5,6 +5,6 @@ zuul:
       serviceId: service-ribbon
     api-b:
       path: /api-b/**
-      serviceId: service-feign
+      serviceId: newservice-feign
 
 
